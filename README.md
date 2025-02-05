@@ -18,15 +18,15 @@ layout:
 
 ### Bước 1 - Đăng ký / Đăng nhập
 
-Truy cập [**mailingtool.net**](https://mailingtool.net/) , ở góc trên bên phải nhấn chọn nút này và đăng ký/đăng nhập với tài khoản Google.
+Truy cập [**toptoptool.net**](https://toptoptool.net/) , ở góc trên bên phải nhấn chọn nút này và đăng ký/đăng nhập với tài khoản Google.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 11.40.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 17.40.52.png" alt=""><figcaption></figcaption></figure>
 
 ### Bước 2 - Tải và cài đặt Tiện ích mở rộng
 
 A. Nhấn để tải **Tiện ích mở rộng** ở nút này
 
-<figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 11.51.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 17.42.30.png" alt=""><figcaption></figcaption></figure>
 
 B. Trên trình duyệt Chrome, ở góc trên bên phải chọn dấu 1. Dấu ba chấm -> 2. Tiện ích mở rộng -> **3.** Quản lý các tiện ích
 
@@ -54,14 +54,12 @@ D. **Kéo và thả** file vừa tải vào giữa như ảnh phía dưới (Ho�
 
 ### Bước 3 - Kết nối và sử dụng
 
-1. Mở một thẻ mới cho gmail.
-2.  Qua thẻ gmail, làm mới trang (F5), tool sẽ tự động nhận. Có thể tắt thẻ facebook đi trong quá trình sử dụng. Nếu bạn muốn sử dụng nhiều tài khoản gmail thì hãy đăng nhập cùng 1 Chrome Profile hiện tại.
+1. Mở một thẻ mới cho tiktok.com và đăng nhập tài khoản của bạn.
+2.  Qua thẻ toptoptool, làm mới trang (F5), tool sẽ tự động nhận.
 
-    <figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 12.01.04.png" alt=""><figcaption></figcaption></figure>
-3. Khi trang mailingtool đã Tải lại xong (trong vòng 5-15s), giao diện sẽ hiển thị danh sách các Địa chỉ Hộp thư, bạn hãy thử gửi 1 email đi để kiểm tra. Nếu gửi không thành công, thực hiện bước reset tool như sau:&#x20;
-   1. tắt hết thẻ gmail đi
-   2. bấm F5 chờ mailingtool được làm mới xong và thử lại
-
-<figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 12.19.11.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/Screenshot 2025-02-05 at 17.52.21.png" alt=""><figcaption></figcaption></figure>
+3. Khi trang toptoptool đã Tải lại xong (trong vòng 5-15s để lấy đủ thông tin cần thiết), bạn hãy thử sử dụng tính năng follow hoặc view profile để kiểm tra. Nếu không thành công, thực hiện bước reset tool như sau:&#x20;
+   1. tắt hết thẻ tiktok đi
+   2. bấm F5 chờ toptoptool được làm mới xong và thử lại
 
 ### Clip hướng dẫn (cập nhật sau)
