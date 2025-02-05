@@ -2,7 +2,7 @@
 
 ### 1. AGREEMENT TO TERMS
 
-These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and mailingtool ("company," "we," "us," or "our"), concerning your access to and use of the [https://mailingtool.net/](https://mailingtool.net/) website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Site").
+These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and 1ManBiz ("company," "we," "us," or "our"), concerning your access to and use of the [https://toptoptool.net/](https://toptoptool.net/) website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "Site").
 
 You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Service. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF SERVICE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -122,11 +122,11 @@ We cannot guarantee the Site will be available at all times. We may experience h
 
 ### 17. GOVERNING LAW
 
-These Terms shall be governed by and defined following the laws of Vietnam. MailingTool and yourself irrevocably consent that the courts of Vietnam shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
+These Terms shall be governed by and defined following the laws of Vietnam. 1ManBiz and yourself irrevocably consent that the courts of Vietnam shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
 
 ### 18. DISPUTE RESOLUTION
 
-You agree to irrevocably submit all disputes related to Terms or the relationship established by this Agreement to the jurisdiction of the Vietnam courts. MailingTool shall also maintain the right to bring proceedings as to the substance of the matter in the courts of the country where you reside or, if these Terms are entered into in the course of your trade or profession, the state of your principal place of business.
+You agree to irrevocably submit all disputes related to Terms or the relationship established by this Agreement to the jurisdiction of the Vietnam courts. 1ManBiz shall also maintain the right to bring proceedings as to the substance of the matter in the courts of the country where you reside or, if these Terms are entered into in the course of your trade or profession, the state of your principal place of business.
 
 ### 19. CORRECTIONS
 
@@ -161,4 +161,4 @@ If any provision or part of a provision of these Terms of Service is determined 
 
 ### 26. CONTACT US
 
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: [support@mailingtool.net](mailto:support@mailingtool.net)
+In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: [support@toptoptool.net](mailto:support@toptoptool.net)

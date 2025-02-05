@@ -35,7 +35,7 @@ Trả lời: Nếu bạn gặp hình trên, thì đã có vấn đề xảy ra g
 
 Trả lời: Nếu bạn gặp hình trên, thì có nghĩa trình duyệt của bạn thiếu một số dữ liệu của tool trước khi đăng nhập Google. Bạn hãy thao tác như sau:
 
-* Vào đường dẫn chính xác [https://mailingtool.net/](https://mailingtool.net/)
+* Vào đường dẫn chính xác [https://toptoptool.net/](https://toptoptool.net/)
 * Bấm tổ hợp Ctrl/Cmd+Shift+R để tải lại trang tool
 * Tiến hành đăng nhập lại
 
@@ -47,7 +47,7 @@ Hãy đảm bảo rằng bạn chỉ cài một phiên bản Tiện ích mở r�
 
 Hoặc có thể trình duyệt Chrome cho "ngủ" thẻ MailingTool do treo quá lâu. Bạn có thể làm như sau để thẻ MailingTool luôn "thức":
 
-Chọn dấu 3 chấm góc trên bên phải của trình duyệt -> Cài đặt -> Hiệu suất -> thêm MailingTool.net
+Chọn dấu 3 chấm góc trên bên phải của trình duyệt -> Cài đặt -> Hiệu suất -> thêm toptoptool.net
 
 <figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 

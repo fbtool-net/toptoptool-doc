@@ -15,7 +15,7 @@ layout:
 
 # Hướng dẫn kiếm 10 - 400 triệu/tháng
 
-Tất cả những gì bạn cần làm là tiếp thị phần mềm MailingTool đến các khách hàng mới.
+Tất cả những gì bạn cần làm là tiếp thị phần mềm TopTopTool đến các khách hàng mới.
 
 Khách hàng mới áp **Mã Giới Thiệu** của bạn sẽ được giảm giá, còn bạn được **Hoa Hồng Vĩnh Viễn** (khách còn dùng bạn vẫn được HH)
 
@@ -53,7 +53,7 @@ Có rất nhiều cách xử lý:
 
 1. Bạn có thể pass họ qua Zalo OA [https://zalo.me/4152692317049608912](https://zalo.me/4152692317049608912)
 2. Bạn có thể pass qua Zalo mình: [https://zalo.me/0933779557](https://zalo.me/0933779557)
-3. Bạn có thể tự trả lời hoặc gửi link HDSD cho họ. [https://doc.mailingtool.net/](https://doc.mailingtool.net/)
+3. Bạn có thể tự trả lời hoặc gửi link HDSD cho họ. [https://doc.toptoptool.net/](https://doc.toptoptool.net/)
 
 ### Nếu khách cần hỗ trợ, fix lỗi thì phải trả lời như thế nào ?
 

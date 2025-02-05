@@ -2,7 +2,7 @@
 
 * [⬇️ Hướng Dẫn Sử Dụng](README.md)
 * [🔥 Tính Năng](tinh-nang.md)
-* [💡 TopTopTool là gì?](mailingtool-la-gi.md)
+* [💡 TopTopTool là gì?](toptoptool-la-gi.md)
 * [💲 Giới thiệu người mới, nhận 20% Hoa Hồng Vĩnh Viễn](gioi-thieu-nguoi-moi-nhan-20-hoa-hong-vinh-vien/README.md)
   * [Điều khoản và Điều kiện Chương trình Giới Thiệu Người Mới](gioi-thieu-nguoi-moi-nhan-20-hoa-hong-vinh-vien/dieu-khoan-va-dieu-kien-chuong-trinh-gioi-thieu-nguoi-moi.md)
   * [Terms and Conditions](gioi-thieu-nguoi-moi-nhan-20-hoa-hong-vinh-vien/terms-and-conditions.md)
