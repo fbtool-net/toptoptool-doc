@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 3️⃣ Gói PRO
+# 3️⃣ 3️⃣ Gói PRO
 
 Ở gói PRO, bạn được dùng với 10 Hộp thư, phần mềm được tích hợp thêm các công nghệ hiệu quả và hữu dụng như:
 

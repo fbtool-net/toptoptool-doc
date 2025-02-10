@@ -16,7 +16,7 @@ layout:
 
 Sau khi đăng nhập, ở góc trên bên phải bạn click chọn "**Mua gói**" hoặc nếu gia hạn/nâng cấp gói thì ấn nút hình **Chìa khóa**.
 
-<figure><img src=".gitbook/assets/Group 1000005095.png" alt="" width="530"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="530"><figcaption></figcaption></figure>
 
 **Bước 1:** Chọn thanh toán theo **Tháng** hoặc **Năm**
 

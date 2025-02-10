@@ -11,7 +11,7 @@
 * [💳 Hướng Dẫn Thanh Toán](huong-dan-thanh-toan.md)
 * [1️⃣ Gói BASIC](goi-basic.md)
 * [2️⃣ Gói PLUS](goi-plus.md)
-* [3️⃣ Gói PRO](goi-pro.md)
+* [3️⃣ 3️⃣ Gói PRO](goi-pro.md)
 * [🔐 Privacy Policy](privacy-policy.md)
 * [📝 Terms of Service](terms-of-service.md)
 * [Hướng dẫn kiếm 10 - 400 triệu/tháng](huong-dan-kiem-10-400-trieu-thang.md)

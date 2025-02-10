@@ -15,7 +15,7 @@ layout:
 
 # 💵 Bảng Giá
 
-<figure><img src=".gitbook/assets/Group 333.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 * Gói BASIC: 100k/tháng, hoặc 50k/tháng (theo năm)
 * Gói PLUS: 200k/tháng, hoặc 100k/tháng (theo năm)

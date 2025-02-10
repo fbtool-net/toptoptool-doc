@@ -59,13 +59,13 @@ Có rất nhiều cách xử lý:
 
 Bạn có thể nói khách chát trong phần "**Hỗ trợ Online**" ngay trong phần mềm. Đây là kênh OA do các nhân viên IT trực.
 
-<figure><img src=".gitbook/assets/Group 1000005089.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Nếu khách bình luận, inbox trong kênh Tiktok thì phải trả lời như thế nào ?
 
 Cách mình trả lời inbox (Bạn nên thêm "Nhớ áp Mã Giảm Giá ABCXYZ vào nhé")
 
-<figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Cách mình trả lời bình luận (Bạn nên thêm "Nhớ áp Mã Giảm Giá ABCXYZ vào nhé")
 
